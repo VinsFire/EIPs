@@ -1,5 +1,5 @@
 ---
-eip: 20
+eip: 200
 title: ERC-20 Token Standard
 author: Fabian Vogelsteller <fabian@ethereum.org>, Vitalik Buterin <vitalik.buterin@ethereum.org>
 type: Standards Track
